@@ -1,1 +1,2 @@
-# G1A021067_REKURSIF
+# Rekursif faktorial 
+c++
